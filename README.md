@@ -1,4 +1,4 @@
-<h2>Mohammed Zaman</h2>
+<h2>Mohammed Sadi</h2>
 I am passionate about executing the advanced & new generation technologies whether that is the front-end or Back-end. It's always a great feeling to create a sleek and responsive application keeping in mind the accessibility aspect of it. I tend to follow the click, learn & execute principle to always stay in conjunction with the rapidly growing Web development sector.
 <hr>
 <h3>#Tech Stack I Use :
